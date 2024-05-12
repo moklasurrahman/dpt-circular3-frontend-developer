@@ -1,30 +1,36 @@
 # Assessment test for Frontend Developer
 
-1. Fork this repository.
-2. Clone this repository to your local machine.
-3. Check data and image folder.
-4. Follow the image first. There is a search form and formated data.
-5. You need to create a flight search form with HTML, CSS and Tailwind CSS.
-6. On form submit get the json data privided inside data folder.
-7. Parse and show your data according to the image provided.
+
+==============================================================
+<h5>How will you run this Project? Flow Step</h5>
+
+Step 1: Copy the GitHub repository by HTTP Link: https://github.com/moklasurrahman/dpt-circular3-frontend-developer.git
+step 2: Open your terminal and write: ``` Git clone Link: https://github.com/moklasurrahman/dpt-circular3-frontend-developer.git ```
+step 3: Go to the root directory ``` cd  dpt-circular3-frontend-developer ```
+step 4: Install npm package by: ``` npm install ```
+step 5: Run the project : ``` npm run dev ```
 
 ==============================================================
 
--   Follow https://flightexpert.com or https://gozayaan.com to understand what are we doing.
--   Do not copy Flight Expert or Go Zayaan, just get idea and follow the image we have given.
--   LHR = Heathrow Airport, CDG = Paris Charles de Gaulle Airport.
--   You do not need to make the form dynamic or filter anything, Just parse the data.
+
+I Spent 4 Hours for this project.
+===========================================================
+
+ best practices That I Have implemented:
+
+ 1. I Have Implemented the Project Structure logical way.
+ 2. Created reusable components.
+ 3. used  functional components and React Hooks for writing cleaner and more concise code
+ 4. Handel error
+ 5. Implement linting and Formatting standard way.
+==============================================================
+
+live project : 
+ 1.https://uralholidays.com/
+
+My  top two personal Git repositories.
+1. https://github.com/moklasurrahman/travel-agency-react-project-with-amadeus-api.git
+2. https://github.com/moklasurrahman/codeBbook.git
 
 ==============================================================
 
--   Complete this task using fresh laravel/Vue JS/React JS or any other language.
--   Update your readme file how can we run the proejct.
--   Mention how much time have you spent for this to complete.
--   Mention the best practices you've implemented in your code.
--   Provide URLs for two of your live frontend projects.
--   Share links to your top two personal Git repositories.
-
-==============================================================
-
--   Upload your code on github and send us link.
--   Video guideline:- https://www.loom.com/share/87a2a73e58484f18b08b47ad5af55e99
