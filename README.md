@@ -4,11 +4,11 @@
 ==============================================================
 <h5>How will you run this Project? Flow Step</h5>
 
-Step 1: Copy the GitHub repository by HTTP Link: https://github.com/moklasurrahman/dpt-circular3-frontend-developer.git
-step 2: Open your terminal and write: ``` Git clone Link: https://github.com/moklasurrahman/dpt-circular3-frontend-developer.git ```
-step 3: Go to the root directory ``` cd  dpt-circular3-frontend-developer ```
-step 4: Install npm package by: ``` npm install ```
-step 5: Run the project : ``` npm run dev ```
+Step 1: Copy the GitHub repository by HTTP Link: https://github.com/moklasurrahman/dpt-circular3-frontend-developer.git <br/>
+step 2: Open your terminal and write: ``` Git clone Link: https://github.com/moklasurrahman/dpt-circular3-frontend-developer.git ``` <br/>
+step 3: Go to the root directory ``` cd  dpt-circular3-frontend-developer ``` <br/>
+step 4: Install npm package by: ``` npm install ``` <br/>
+step 5: Run the project : ``` npm run dev ``` <br/>
 
 ==============================================================
 
